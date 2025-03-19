@@ -1,0 +1,11 @@
+stage1{
+logic
+}
+
+stage2{
+logic
+}
+
+stage3{
+logic
+}
